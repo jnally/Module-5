@@ -1,4 +1,4 @@
-# Module 5 Learning Journal - Jeremy Nally
+# Module 5 - Journal Your Learnings - Jeremy Nally
 
 ## Learning Style Reflection
 * **Preferred Style:** Kinesthetic / Hands-on
